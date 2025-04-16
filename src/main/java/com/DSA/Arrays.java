@@ -13,6 +13,7 @@ public class Arrays {
         System.out.println(index);*/
 
         // searching for value
+
         List<Integer> num = new ArrayList<>();
         num.add(5);
         num.add(6);
@@ -32,5 +33,6 @@ public class Arrays {
         }else {
             System.out.println("Value Not Found :" + target);
         }
+        System.out.println();
     }
 }
