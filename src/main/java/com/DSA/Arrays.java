@@ -33,6 +33,6 @@ public class Arrays {
         }else {
             System.out.println("Value Not Found :" + target);
         }
-        System.out.println();
+
     }
 }
